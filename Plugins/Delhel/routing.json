@@ -1,0 +1,623 @@
+{
+    "LZIB": {
+        "entry": [
+            {
+                "name": "BERVA",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "NIT",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+							"TURIS"
+                        ]
+                    },
+					{
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+							"A42"
+                        ]
+                    },
+					{
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "MOMEP",
+                            "NIDOK"
+                        ]
+                    },
+					{
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "R23"
+                        ]
+                    },
+					{
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "M748"
+                        ]
+                    }                
+                ]
+            },
+            {
+                "name": "TABIN",
+                "routes": [
+                    {
+                        "icao": "LHBP",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "ANEXA"
+                        ]
+                    },
+					{
+                        "icao": "LHBP",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "Q350"
+                        ]
+                    },
+                    {
+                        "icao": "LHKE",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "ANEXA"
+                        ]
+                    },
+                    {
+                        "icao": "LHKE",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "Q350"
+                        ]
+                    },
+                    {
+                        "icao": "LHTL",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "ANEXA"
+                        ]
+                    },
+					{
+                        "icao": "LHTL",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "Q350"
+                        ]
+                    },
+                    {
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": []
+                    }
+                ]
+            },
+            {
+                "name": "TOVKA",
+                "routes": [
+					{
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 80,
+                        "waypoints": []
+                    }
+                ]
+            },
+            {
+                "name": "VAMOG",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 80,
+                        "waypoints": [
+							"VAMOG",
+							"SIRDU",
+							"OSDUK"
+						]
+                    },
+					{
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 80,
+                        "waypoints": [
+							"VAMOG",
+							"SIRDU",
+							"NEKIN"
+						]
+                    },
+					{
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 80,
+                        "waypoints": [
+							"VAMOG",
+							"SIRDU",
+							"KOPRY"
+						]
+                    },
+					{
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 80,
+                        "waypoints": [
+							"VAMOG",
+							"SIRDU",
+							"BABIT"
+						]
+                    }
+					
+                ]
+            }
+        ]
+    },
+    "LZKZ": {
+        "entry": [
+            {
+                "name": "EVULA",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 80,
+                        "waypoints": []
+                    }
+                ]
+            },
+            {
+                "name": "HATIP",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 80,
+                        "waypoints": []
+                    }
+                ]
+            },
+            {
+                "name": "KEKED",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 80,
+                        "waypoints": []
+                    }
+                ]
+            },
+            {
+                "name": "LATOF",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 80,
+                        "waypoints": []
+                    }
+                ]
+            },
+            {
+                "name": "MARKA",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "PPD"
+                        ]
+                    },
+					{
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "R232"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "RAZEC",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 80,
+                        "waypoints": []
+                    }
+                ]
+            },
+            {
+                "name": "SUFAX",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 80,
+                        "waypoints": []
+                    }
+                ]
+            },
+            {
+                "name": "TAKOS",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 80,
+                        "waypoints": []
+                    }
+                ]
+            }
+        ]
+    },
+    "LZPP": {
+        "entry": [
+            {
+                "name": "BERVA",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": []
+                    }
+                ]
+            },
+            {
+                "name": "NIT",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "MOMEP",
+                            "NIDOK"
+                        ]
+                    },
+					{
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "R23"
+                        ]
+                    },
+                    {
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "TURIS"
+                        ]
+                    },
+					{
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "A42"
+                        ]
+                    },
+                    {
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "TABIN",
+                            "ANEXA"
+                        ]
+                    },
+					{
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "Q350"
+                        ]
+                    },
+                    {
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "ARFOX",
+                            "ERGOM"
+                        ]
+                    },
+                    {
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "M748"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "OKR",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "TOVKA"
+                        ]
+                    },
+					{
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "M141"
+                        ]
+                    },
+                    {
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "MAREG"
+                        ]
+                    },
+                    {
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "L856"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "LZTT": {
+        "entry": [
+            {
+                "name": "EPEDA",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "TIVON"
+                        ]
+                    },
+					{
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "R53"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "LOLKA",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 80,
+                        "waypoints": []
+                    }
+                ]
+            },
+            {
+                "name": "MARKA",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "KSC"
+                        ]
+                    },
+					{
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "R232"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "ORLAN",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "LENOV"
+                        ]
+                    },
+					{
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "R53"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "UDREL",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "KOJOT",
+                            "DUFES",
+                            "MALBE"
+                        ]
+                    },
+					{
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "P27"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "UMARY",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "MOCON"
+                        ]
+                    },
+					{
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "P27"
+                        ]
+                    },
+                    {
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "LIPTY"
+                        ]
+                    },
+                    {
+                        "icao": "",
+                        "maxlvl": 135,
+                        "minlvl": 80,
+                        "waypoints": [
+                            "M66"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "LZZI": {
+        "entry": [
+            {
+                "name": "BILNA",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 60,
+                        "waypoints": []
+                    }
+                ]
+            },
+            {
+                "name": "MAKAL",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 60,
+                        "waypoints": []
+                    }
+                ]
+            },
+            {
+                "name": "RUTKI",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 60,
+                        "waypoints": [
+                            "MOCON"
+                        ]
+                    },
+					{
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 60,
+                        "waypoints": [
+                            "P27"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "TEKLA",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 60,
+                        "waypoints": [
+							"NIDOK"
+						]
+                    },
+					{
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 60,
+                        "waypoints": [
+							"L617"
+						]
+                    }
+                ]
+            },
+            {
+                "name": "VADEX",
+                "routes": [
+                    {
+                        "icao": "",
+                        "maxlvl": 660,
+                        "minlvl": 60,
+                        "waypoints": []
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<CDM>
+	<rate ops="60"/>
+	<rateLvo ops="60"/>
+	<expiredCtot time="20"/>
+	<realMode mode="true"/>
+	<bmi mode="false" />					 
+	<pilotTobt mode="true"/>
+	<autoAtot mode="false"/>
+	<invalidateAtTsat mode="true"/>
+	<invalidateAtTobt mode="false"/>
+	<readySetTsac mode="true" />
+	<Rates url="https://vacc-slovakia.lima-city.at/CDM_plugin/rate.txt"/>
+	<Taxizones url="https://vacc-slovakia.lima-city.at/CDM_plugin/taxizones.txt"/>
+	<Slots url="https://vacc-slovakia.lima-city.at/CDM_plugin/ctot.txt"/>				
+	<sidInterval url=""/>
+	<DefaultTaxiTime minutes="15"/>
+	<DeIceTimes light="5" medium="9" heavy="12" super="15"/>
+	<DeIceRemTaxi rem1Name= "REM" rem1="0" rem2Name= "" rem2="0" rem3Name= "" rem3="0" rem4Name= "" rem4="0" rem5Name= "" rem5="0"/>
+	<eventModeMin time="5" />
+	<RefreshTime seconds="10" />
+	<Debug mode="false" />
+	<FlowRestrictions url="" />
+	<vdgsFileType type="3"/>
+	<ftpHost host="" />
+	<ftpUser user="" />
+	<ftpPassword password="" />
+	<sftpConnection mode="false" />
+	<Server mode="true" />
+	<Su_Wait mode="false" />
+	<flashingMode tobtLastMin= "false" tsatFirstMin="false" tsatLastMin= "false"/>
+	<reqTobtPriority mode="false" />
+	<eventPriority mode="true" />
+	<autoSetTobtFromEvSlot mode="true" />
+	<remarksOptionCtot mode="false" />
+	<PrivateMessage text="[CDM MSG] PLEASE, MONITOR https://vats.im/vdgs FOR CDM AND ATFCM UPDATES. [END OF CDM MSG]" />
+	<loading text="...."/>
+</CDM>

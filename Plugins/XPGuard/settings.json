@@ -1,0 +1,62 @@
+{
+  "apronDim": false,
+  "apronDimOff": 45,
+  "apronDimOn": 85,
+  "autoMode": true,
+  "autoMode_time": 45,
+  "barSize": 3,
+  "barStyle": 0,
+  "btn_x": 165,
+  "btn_y": 213,
+  "cat23OnlyInLvp": false,
+  "fpMin": false,
+  "fp_x": 573,
+  "fp_y": 202,
+  "ftgAhead": 250,
+  "ftgBehind": 30,
+  "ftgColActive": [
+    60,
+    200,
+    120
+  ],
+  "ftgColDraft": [
+    110,
+    175,
+    235
+  ],
+  "ftgColHandoff": [
+    230,
+    130,
+    245
+  ],
+  "ftgColRoute": [
+    52,
+    106,
+    68
+  ],
+  "ftgMineOnly": false,
+  "ftgRollingWindow": true,
+  "ftgRouteWidth": 2,
+  "ftgSuggestJoin": false,
+  "grpMaps": "",
+  "hideAutoIhpOff": true,
+  "hideBars": false,
+  "hideNoentry": false,
+  "ihpDisplay": "color",
+  "ihpDotSize": 3,
+  "leadAuto": false,
+  "leadMiniSec": 5,
+  "leadOffMode": 0,
+  "leadShow": 0,
+  "log": false,
+  "minZoom": 30,
+  "relAirborne": 300.0,
+  "relArrWin": 30.0,
+  "relCantic": 3.0,
+  "relDepSpd": 8.0,
+  "relShow": false,
+  "showXpgTags": false,
+  "thlHorizon": 12,
+  "thlSound": false,
+  "token": ""
+}
