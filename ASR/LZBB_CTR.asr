@@ -1,0 +1,166 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:LZIB:name
+Airports:LZIB:symbol
+Airports:LZKZ:name
+Airports:LZKZ:symbol
+Airports:LZMC:name
+Airports:LZMC:symbol
+Airports:LZPP:name
+Airports:LZPP:symbol
+Airports:LZSL:name
+Airports:LZSL:symbol
+Airports:LZTT:name
+Airports:LZTT:symbol
+Airports:LZZI:name
+Airports:LZZI:symbol
+ARTCC high boundary:BOARDER:
+ARTCC high boundary:RUTOL area:
+ARTCC high boundary:TMA LZIB:
+ARTCC high boundary:TMA LZKZ:
+ARTCC high boundary:TMA LZMC:
+ARTCC high boundary:TMA LZPP:
+ARTCC high boundary:TMA LZSL:
+ARTCC high boundary:TMA LZTT:
+ARTCC high boundary:TMA LZZI:
+Fixes:ABRAG:name
+Fixes:ABRAG:symbol
+Fixes:ALAMU:name
+Fixes:ALAMU:symbol
+Fixes:ANEXA:name
+Fixes:ANEXA:symbol
+Fixes:ARFOX:name
+Fixes:ARFOX:symbol
+Fixes:BALAP:name
+Fixes:BALAP:symbol
+Fixes:BERVA:name
+Fixes:BERVA:symbol
+Fixes:BILNA:name
+Fixes:BILNA:symbol
+Fixes:DEMOP:name
+Fixes:DEMOP:symbol
+Fixes:EDEMU:name
+Fixes:EDEMU:symbol
+Fixes:EPEDA:name
+Fixes:EPEDA:symbol
+Fixes:ERGOM:name
+Fixes:ERGOM:symbol
+Fixes:HATIP:name
+Fixes:HATIP:symbol
+Fixes:KALIF:name
+Fixes:KALIF:symbol
+Fixes:KEKED:name
+Fixes:KEKED:symbol
+Fixes:KENIN:name
+Fixes:KENIN:symbol
+Fixes:KOXER:name
+Fixes:KOXER:symbol
+Fixes:KREMI:name
+Fixes:KREMI:symbol
+Fixes:LALES:name
+Fixes:LALES:symbol
+Fixes:LATOF:name
+Fixes:LATOF:symbol
+Fixes:LENOV:name
+Fixes:LENOV:symbol
+Fixes:LOLKA:name
+Fixes:LOLKA:symbol
+Fixes:MAKAL:name
+Fixes:MAKAL:symbol
+Fixes:MARKA:name
+Fixes:MARKA:symbol
+Fixes:MAVOR:name
+Fixes:MAVOR:symbol
+Fixes:MEBAN:name
+Fixes:MEBAN:symbol
+Fixes:ODNEM:name
+Fixes:ODNEM:symbol
+Fixes:ORLAN:name
+Fixes:ORLAN:symbol
+Fixes:PITOK:name
+Fixes:PITOK:symbol
+Fixes:RAZEC:name
+Fixes:RAZEC:symbol
+Fixes:REKLU:name
+Fixes:REKLU:symbol
+Fixes:RUTKI:name
+Fixes:RUTKI:symbol
+Fixes:SUFAX:name
+Fixes:SUFAX:symbol
+Fixes:TABIN:name
+Fixes:TABIN:symbol
+Fixes:TAKOS:name
+Fixes:TAKOS:symbol
+Fixes:TEKLA:name
+Fixes:TEKLA:symbol
+Fixes:TIVON:name
+Fixes:TIVON:symbol
+Fixes:TOVKA:name
+Fixes:TOVKA:symbol
+Fixes:TURIS:name
+Fixes:TURIS:symbol
+Fixes:UDREL:name
+Fixes:UDREL:symbol
+Fixes:UMARY:name
+Fixes:UMARY:symbol
+Fixes:VADEX:name
+Fixes:VADEX:symbol
+Fixes:VAMOG:name
+Fixes:VAMOG:symbol
+NDBs:OB:name
+NDBs:OB:symbol
+NDBs:OKR:name
+NDBs:OKR:symbol
+Regions:Airways:polygon
+Regions:CTR background:polygon
+Runways:LZIB 04-22:extended centerline 2
+Runways:LZIB 04-22:extended centerline 2 left base
+Runways:LZIB 04-22:extended centerline 2 left ticks
+Runways:LZIB 04-22:extended centerline 2 left vectoring
+Runways:LZIB 04-22:extended centerline 2 right base
+Runways:LZIB 04-22:extended centerline 2 right ticks
+Runways:LZIB 04-22:extended centerline 2 right vectoring
+Runways:LZIB 13-31:extended centerline 2
+Runways:LZIB 13-31:extended centerline 2 left base
+Runways:LZIB 13-31:extended centerline 2 left ticks
+Runways:LZIB 13-31:extended centerline 2 left vectoring
+Runways:LZIB 13-31:extended centerline 2 right base
+Runways:LZIB 13-31:extended centerline 2 right ticks
+Runways:LZIB 13-31:extended centerline 2 right vectoring
+Runways:LZKZ 01-19:extended centerline 1
+Runways:LZKZ 01-19:extended centerline 1 left ticks
+Runways:LZKZ 01-19:extended centerline 1 right ticks
+Runways:LZPP 01-19:extended centerline 1
+Runways:LZPP 01-19:extended centerline 1 left ticks
+Runways:LZPP 01-19:extended centerline 1 right ticks
+Runways:LZTT 09-27:extended centerline 2
+Runways:LZTT 09-27:extended centerline 2 left ticks
+Runways:LZTT 09-27:extended centerline 2 right ticks
+Runways:LZZI 06-24:extended centerline 1
+Runways:LZZI 06-24:extended centerline 1 left ticks
+Runways:LZZI 06-24:extended centerline 1 right ticks
+VORs:JAN:name
+VORs:JAN:symbol
+VORs:KSC:name
+VORs:KSC:symbol
+VORs:NIT:name
+VORs:NIT:symbol
+VORs:PPD:name
+VORs:PPD:symbol
+VORs:SLC:name
+VORs:SLC:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:LZBB_Topsky
+WINDOWAREA:47.254102:14.709771:50.166054:23.020014

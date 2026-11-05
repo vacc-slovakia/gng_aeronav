@@ -1,0 +1,76 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+ARTCC high boundary:BOARDER:
+Free Text:LZSL Grounddesignator\1:freetext
+Free Text:LZSL Grounddesignator\1A:freetext
+Free Text:LZSL Grounddesignator\2:freetext
+Free Text:LZSL Grounddesignator\3:freetext
+Free Text:LZSL Grounddesignator\4:freetext
+Free Text:LZSL Grounddesignator\5:freetext
+Free Text:LZSL Grounddesignator\6:freetext
+Free Text:LZSL Grounddesignator\6A:freetext
+Free Text:LZSL Grounddesignator\A:freetext
+Free Text:LZSL Grounddesignator\B:freetext
+Free Text:LZSL Grounddesignator\C:freetext
+Free Text:LZSL Grounddesignator\C:freetext
+Free Text:LZSL Grounddesignator\D:freetext
+Free Text:LZSL Grounddesignator\E:freetext
+Free Text:LZSL Grounddesignator\F:freetext
+Free Text:LZSL Grounddesignator\G:freetext
+Free Text:LZSL Grounddesignator\H:freetext
+Free Text:LZSL Grounddesignator\L:freetext
+Free Text:LZSL Grounddesignator\L:freetext
+Free Text:LZSL Grounddesignator\L:freetext
+Free Text:LZSL VFR Designator\Hronska Breznica:freetext
+Free Text:LZSL VFR Designator\Kremnica:freetext
+Free Text:LZSL VFR Designator\Lubietova:freetext
+Free Text:LZSL VFR Designator\Víglas:freetext
+Regions:CTR background:polygon
+Regions:Groundlayout LZDB:polygon
+Regions:Groundlayout LZDV:polygon
+Regions:Groundlayout LZHL:polygon
+Regions:Groundlayout LZIB:polygon
+Regions:Groundlayout LZIS:polygon
+Regions:Groundlayout LZKC:polygon
+Regions:Groundlayout LZKZ:polygon
+Regions:Groundlayout LZLU:polygon
+Regions:Groundlayout LZMA:polygon
+Regions:Groundlayout LZMC:polygon
+Regions:Groundlayout LZNI:polygon
+Regions:Groundlayout LZNZ:polygon
+Regions:Groundlayout LZOC:polygon
+Regions:Groundlayout LZOZ:polygon
+Regions:Groundlayout LZPE:polygon
+Regions:Groundlayout LZPP:polygon
+Regions:Groundlayout LZPT:polygon
+Regions:Groundlayout LZPW:polygon
+Regions:Groundlayout LZRU:polygon
+Regions:Groundlayout LZRY:polygon
+Regions:Groundlayout LZSE:polygon
+Regions:Groundlayout LZSK:polygon
+Regions:Groundlayout LZSL:polygon
+Regions:Groundlayout LZSV:polygon
+Regions:Groundlayout LZSY:polygon
+Regions:Groundlayout LZTN:polygon
+Regions:Groundlayout LZTR:polygon
+Regions:Groundlayout LZTT:polygon
+Regions:Groundlayout LZZI:polygon
+Regions:Heliports:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:LZBB
+WINDOWAREA:48.633410:19.120227:48.648783:19.164099
+PLUGIN:Ground Radar plugin:AirportElevation:1030 
+PLUGIN:Ground Radar plugin:AirportRadius:1
+PLUGIN:Ground Radar plugin:GroundMode:LZSL

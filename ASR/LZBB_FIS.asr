@@ -1,0 +1,269 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:LZIB:name
+Airports:LZIB:symbol
+Airports:LZKZ:name
+Airports:LZKZ:symbol
+Airports:LZMC:name
+Airports:LZMC:symbol
+Airports:LZPP:name
+Airports:LZPP:symbol
+Airports:LZTT:name
+Airports:LZTT:symbol
+Airports:LZZI:name
+Airports:LZZI:symbol
+ARTCC high boundary:BOARDER:
+ARTCC high boundary:RUTOL area:
+ARTCC high boundary:TMA LZIB:
+ARTCC high boundary:TMA LZKZ:
+ARTCC high boundary:TMA LZPP:
+ARTCC high boundary:TMA LZSL:
+ARTCC high boundary:TMA LZTT:
+ARTCC high boundary:TMA LZZI:
+ARTCC low boundary:CTR LZIB:
+ARTCC low boundary:CTR LZKZ:
+ARTCC low boundary:CTR LZMC:
+ARTCC low boundary:CTR LZPP:
+ARTCC low boundary:CTR LZSL:
+ARTCC low boundary:CTR LZTT:
+ARTCC low boundary:CTR LZZI:
+Free Text:LZIB Grounddesignator\1:freetext
+Free Text:LZIB Grounddesignator\10:freetext
+Free Text:LZIB Grounddesignator\11:freetext
+Free Text:LZIB Grounddesignator\12:freetext
+Free Text:LZIB Grounddesignator\13:freetext
+Free Text:LZIB Grounddesignator\14:freetext
+Free Text:LZIB Grounddesignator\15:freetext
+Free Text:LZIB Grounddesignator\16:freetext
+Free Text:LZIB Grounddesignator\2:freetext
+Free Text:LZIB Grounddesignator\3:freetext
+Free Text:LZIB Grounddesignator\31:freetext
+Free Text:LZIB Grounddesignator\32:freetext
+Free Text:LZIB Grounddesignator\33:freetext
+Free Text:LZIB Grounddesignator\34:freetext
+Free Text:LZIB Grounddesignator\35:freetext
+Free Text:LZIB Grounddesignator\3A:freetext
+Free Text:LZIB Grounddesignator\3B:freetext
+Free Text:LZIB Grounddesignator\4:freetext
+Free Text:LZIB Grounddesignator\41:freetext
+Free Text:LZIB Grounddesignator\42:freetext
+Free Text:LZIB Grounddesignator\43:freetext
+Free Text:LZIB Grounddesignator\44:freetext
+Free Text:LZIB Grounddesignator\45:freetext
+Free Text:LZIB Grounddesignator\46:freetext
+Free Text:LZIB Grounddesignator\47:freetext
+Free Text:LZIB Grounddesignator\48:freetext
+Free Text:LZIB Grounddesignator\4A:freetext
+Free Text:LZIB Grounddesignator\4B:freetext
+Free Text:LZIB Grounddesignator\5:freetext
+Free Text:LZIB Grounddesignator\6:freetext
+Free Text:LZIB Grounddesignator\7:freetext
+Free Text:LZIB Grounddesignator\8:freetext
+Free Text:LZIB Grounddesignator\9:freetext
+Free Text:LZIB Grounddesignator\A:freetext
+Free Text:LZIB Grounddesignator\A:freetext
+Free Text:LZIB Grounddesignator\B:freetext
+Free Text:LZIB Grounddesignator\C:freetext
+Free Text:LZIB Grounddesignator\D:freetext
+Free Text:LZIB Grounddesignator\D:freetext
+Free Text:LZIB Grounddesignator\D:freetext
+Free Text:LZIB Grounddesignator\F:freetext
+Free Text:LZIB Grounddesignator\F:freetext
+Free Text:LZIB Grounddesignator\F:freetext
+Free Text:LZIB Grounddesignator\F:freetext
+Free Text:LZIB Grounddesignator\G:freetext
+Free Text:LZIB Grounddesignator\GG:freetext
+Free Text:LZIB Grounddesignator\H1:freetext
+Free Text:LZIB Grounddesignator\H2:freetext
+Free Text:LZIB VFR Designator\C:freetext
+Free Text:LZIB VFR Designator\DEVIN:freetext
+Free Text:LZIB VFR Designator\E:freetext
+Free Text:LZIB VFR Designator\K:freetext
+Free Text:LZIB VFR Designator\KITSEE:freetext
+Free Text:LZIB VFR Designator\N:freetext
+Free Text:LZIB VFR Designator\P:freetext
+Free Text:LZIB VFR Designator\R:freetext
+Free Text:LZIB VFR Designator\RAJKA:freetext
+Free Text:LZIB VFR Designator\S:freetext
+Free Text:LZIB VFR Designator\V:freetext
+Free Text:LZIB VFR Designator\W:freetext
+Free Text:LZJS VFR Designator\EAST:freetext
+Free Text:LZJS VFR Designator\JSS:freetext
+Free Text:LZJS VFR Designator\MARA:freetext
+Free Text:LZJS VFR Designator\WEST:freetext
+Free Text:LZKZ Grounddesignator\1:freetext
+Free Text:LZKZ Grounddesignator\10N:freetext
+Free Text:LZKZ Grounddesignator\10S:freetext
+Free Text:LZKZ Grounddesignator\15:freetext
+Free Text:LZKZ Grounddesignator\16:freetext
+Free Text:LZKZ Grounddesignator\2:freetext
+Free Text:LZKZ Grounddesignator\2A:freetext
+Free Text:LZKZ Grounddesignator\3:freetext
+Free Text:LZKZ Grounddesignator\3A:freetext
+Free Text:LZKZ Grounddesignator\4:freetext
+Free Text:LZKZ Grounddesignator\5:freetext
+Free Text:LZKZ Grounddesignator\5A:freetext
+Free Text:LZKZ Grounddesignator\6:freetext
+Free Text:LZKZ Grounddesignator\6A:freetext
+Free Text:LZKZ Grounddesignator\7N:freetext
+Free Text:LZKZ Grounddesignator\7S:freetext
+Free Text:LZKZ Grounddesignator\8N:freetext
+Free Text:LZKZ Grounddesignator\8S:freetext
+Free Text:LZKZ Grounddesignator\9N:freetext
+Free Text:LZKZ Grounddesignator\9S:freetext
+Free Text:LZKZ Grounddesignator\A:freetext
+Free Text:LZKZ Grounddesignator\C:freetext
+Free Text:LZKZ Grounddesignator\C:freetext
+Free Text:LZKZ Grounddesignator\D:freetext
+Free Text:LZKZ Grounddesignator\D1:freetext
+Free Text:LZKZ Grounddesignator\D2:freetext
+Free Text:LZKZ Grounddesignator\D3:freetext
+Free Text:LZKZ Grounddesignator\D4:freetext
+Free Text:LZKZ Grounddesignator\E:freetext
+Free Text:LZKZ Grounddesignator\E:freetext
+Free Text:LZKZ Grounddesignator\E:freetext
+Free Text:LZKZ Grounddesignator\E:freetext
+Free Text:LZKZ Grounddesignator\F:freetext
+Free Text:LZKZ Grounddesignator\F1:freetext
+Free Text:LZKZ Grounddesignator\H:freetext
+Free Text:LZKZ Grounddesignator\J:freetext
+Free Text:LZKZ Grounddesignator\Z1:freetext
+Free Text:LZKZ VFR Designator\A:freetext
+Free Text:LZKZ VFR Designator\B:freetext
+Free Text:LZKZ VFR Designator\E:freetext
+Free Text:LZKZ VFR Designator\KEKED:freetext
+Free Text:LZKZ VFR Designator\N:freetext
+Free Text:LZKZ VFR Designator\R:freetext
+Free Text:LZKZ VFR Designator\W:freetext
+Free Text:LZPP Grounddesignator\1A:freetext
+Free Text:LZPP Grounddesignator\1B:freetext
+Free Text:LZPP Grounddesignator\2A:freetext
+Free Text:LZPP Grounddesignator\2B:freetext
+Free Text:LZPP Grounddesignator\3:freetext
+Free Text:LZPP Grounddesignator\4:freetext
+Free Text:LZPP Grounddesignator\5:freetext
+Free Text:LZPP Grounddesignator\A:freetext
+Free Text:LZPP Grounddesignator\A:freetext
+Free Text:LZPP Grounddesignator\B:freetext
+Free Text:LZPP Grounddesignator\B:freetext
+Free Text:LZPP Grounddesignator\B:freetext
+Free Text:LZPP Grounddesignator\C:freetext
+Free Text:LZPP VFR Designator\D:freetext
+Free Text:LZPP VFR Designator\H:freetext
+Free Text:LZPP VFR Designator\I:freetext
+Free Text:LZPP VFR Designator\L:freetext
+Free Text:LZPP VFR Designator\M:freetext
+Free Text:LZPP VFR Designator\O:freetext
+Free Text:LZPP VFR Designator\T:freetext
+Free Text:LZSE Grounddesignator\A:freetext
+Free Text:LZSE Grounddesignator\B:freetext
+Free Text:LZSE Grounddesignator\C:freetext
+Free Text:LZSL Grounddesignator\1:freetext
+Free Text:LZSL Grounddesignator\1A:freetext
+Free Text:LZSL Grounddesignator\2:freetext
+Free Text:LZSL Grounddesignator\3:freetext
+Free Text:LZSL Grounddesignator\4:freetext
+Free Text:LZSL Grounddesignator\5:freetext
+Free Text:LZSL Grounddesignator\6:freetext
+Free Text:LZSL Grounddesignator\6A:freetext
+Free Text:LZSL Grounddesignator\A:freetext
+Free Text:LZSL Grounddesignator\B:freetext
+Free Text:LZSL Grounddesignator\C:freetext
+Free Text:LZSL Grounddesignator\C:freetext
+Free Text:LZSL Grounddesignator\D:freetext
+Free Text:LZSL Grounddesignator\E:freetext
+Free Text:LZSL Grounddesignator\F:freetext
+Free Text:LZSL Grounddesignator\G:freetext
+Free Text:LZSL Grounddesignator\H:freetext
+Free Text:LZSL Grounddesignator\L:freetext
+Free Text:LZSL Grounddesignator\L:freetext
+Free Text:LZSL Grounddesignator\L:freetext
+Free Text:LZSL VFR Designator\Hronska Breznica:freetext
+Free Text:LZSL VFR Designator\Kremnica:freetext
+Free Text:LZSL VFR Designator\Lubietova:freetext
+Free Text:LZSL VFR Designator\V glas:freetext
+Free Text:LZTN Grounddesignator\A:freetext
+Free Text:LZTN Grounddesignator\B:freetext
+Free Text:LZTN Grounddesignator\C:freetext
+Free Text:LZTN Grounddesignator\C:freetext
+Free Text:LZTN Grounddesignator\D:freetext
+Free Text:LZTT Grounddesignator\1:freetext
+Free Text:LZTT Grounddesignator\2:freetext
+Free Text:LZTT Grounddesignator\3:freetext
+Free Text:LZTT Grounddesignator\4:freetext
+Free Text:LZTT Grounddesignator\A:freetext
+Free Text:LZTT Grounddesignator\Z:freetext
+Free Text:LZTT VFR Designator\A:freetext
+Free Text:LZTT VFR Designator\B:freetext
+Free Text:LZTT VFR Designator\C:freetext
+Free Text:LZTT VFR Designator\D:freetext
+Free Text:LZTT VFR Designator\E:freetext
+Free Text:LZTT VFR Designator\E:freetext
+Free Text:LZTT VFR Designator\N:freetext
+Free Text:LZTT VFR Designator\W:freetext
+Free Text:LZZI Grounddesignator\1:freetext
+Free Text:LZZI Grounddesignator\2:freetext
+Free Text:LZZI Grounddesignator\3:freetext
+Free Text:LZZI Grounddesignator\A:freetext
+Free Text:LZZI Grounddesignator\B:freetext
+Free Text:LZZI VFR Designator\K:freetext
+Free Text:LZZI VFR Designator\L:freetext
+Free Text:LZZI VFR Designator\M:freetext
+Free Text:LZZI VFR Designator\N:freetext
+Free Text:LZZI VFR Designator\R:freetext
+Free Text:LZZI VFR Designator\T:freetext
+NDBs:OKR:name
+NDBs:OKR:symbol
+Regions:Groundlayout LZDB:polygon
+Regions:Groundlayout LZDV:polygon
+Regions:Groundlayout LZHL:polygon
+Regions:Groundlayout LZJS:polygon
+Regions:Groundlayout LZKC:polygon
+Regions:Groundlayout LZLU:polygon
+Regions:Groundlayout LZMA:polygon
+Regions:Groundlayout LZMC:polygon
+Regions:Groundlayout LZNI:polygon
+Regions:Groundlayout LZNZ:polygon
+Regions:Groundlayout LZPE:polygon
+Regions:Groundlayout LZPT:polygon
+Regions:Groundlayout LZPW:polygon
+Regions:Groundlayout LZRU:polygon
+Regions:Groundlayout LZRY:polygon
+Regions:Groundlayout LZSE:polygon
+Regions:Groundlayout LZSK:polygon
+Regions:Groundlayout LZSL:polygon
+Regions:Groundlayout LZSV:polygon
+Regions:Groundlayout LZSY:polygon
+Regions:Groundlayout LZTN:polygon
+Regions:Groundlayout LZTR:polygon
+Regions:LZIB 1 Groundlayout:polygon
+Regions:LZKZ 1 Groundlayout:polygon
+Regions:LZPP 1 Groundlayout:polygon
+Regions:LZTT 1 Groundlayout:polygon
+Regions:LZZI 1 Groundlayout:polygon
+VORs:JAN:name
+VORs:JAN:symbol
+VORs:KSC:name
+VORs:KSC:symbol
+VORs:NIT:name
+VORs:NIT:symbol
+VORs:PPD:name
+VORs:PPD:symbol
+VORs:SLC:name
+VORs:SLC:symbol
+
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:LZBB_Topsky
+WINDOWAREA:45.124784:11.023540:51.225343:27.775332
