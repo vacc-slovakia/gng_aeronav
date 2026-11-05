@@ -1,0 +1,257 @@
+RECORD:-:off.wav
+RECORD:+:off.wav
+RECORD:0:off.wav
+RECORD:000:off.wav
+RECORD:04:off.wav
+RECORD:1:off.wav
+RECORD:10:off.wav
+RECORD:10 to 25 percent:off.wav
+RECORD:13:off.wav
+RECORD:2:off.wav
+RECORD:22:off.wav
+RECORD:25 to 50 percent:off.wav
+RECORD:3:off.wav
+RECORD:31:off.wav
+RECORD:4:off.wav
+RECORD:5:off.wav
+RECORD:50:off.wav
+RECORD:6:off.wav
+RECORD:7:off.wav
+RECORD:8:off.wav
+RECORD:9:off.wav
+RECORD:A:off.wav
+RECORD:AC:off.wav
+RECORD:Actual RVR values available on control frequencies:off.wav
+RECORD:After:off.wav
+RECORD:ALL AIRCRAFT DEPARTING BETWEEN 2100 LOCAL TIME AND 0700 LOCAL TIME WILL BE CLEARED VIA NOISE ABATEMENT SID, STRICT ADHERENCE IS MANDATORY AND WILL BE MONITORED:off.wav
+RECORD:all runways:off.wav
+RECORD:Altitude:off.wav
+RECORD:and:off.wav
+RECORD:At:off.wav
+RECORD:at time:off.wav
+RECORD:Attention:off.wav
+RECORD:automatic weather report:off.wav
+RECORD:B:off.wav
+RECORD:Becoming:off.wav
+RECORD:below 10 percent:off.wav
+RECORD:BKN:off.wav
+RECORD:BKN:off.wav
+RECORD:Blowing dust:off.wav
+RECORD:Blowing sand:off.wav
+RECORD:Blowing snow:off.wav
+RECORD:Braking action:off.wav
+RECORD:Broken:off.wav
+RECORD:By:off.wav
+RECORD:by ATC:off.wav
+RECORD:C:off.wav
+RECORD:CAVOK:off.wav
+RECORD:CB:off.wav
+RECORD:center:off.wav
+RECORD:CI:off.wav
+RECORD:Clear and dry:off.wav
+RECORD:cleared of deposits:off.wav
+RECORD:Closed due clearance in progress:off.wav
+RECORD:clouds:off.wav
+RECORD:CLR:off.wav
+RECORD:Cm:off.wav
+RECORD:Cm or more:off.wav
+RECORD:compacted or rolled snow:off.wav
+RECORD:confirm information:off.wav
+RECORD:covered with:off.wav
+RECORD:D:off.wav
+RECORD:Damp:off.wav
+RECORD:Degrees:off.wav
+RECORD:degrees C:off.wav
+RECORD:Deposits 10 to 25 percent:off.wav
+RECORD:Deposits 25 to 50 percent:off.wav
+RECORD:Deposits below 10 precent:off.wav
+RECORD:Deposits more than 50 percent:off.wav
+RECORD:Dew point:off.wav
+RECORD:dewpoint:off.wav
+RECORD:Downgrading:off.wav
+RECORD:Drizzle:off.wav
+RECORD:dry snow:off.wav
+RECORD:Dust whirls:off.wav
+RECORD:Duststorm:off.wav
+RECORD:E:off.wav
+RECORD:East:off.wav
+RECORD:expect ILS approach:off.wav
+RECORD:expect NDB approach:off.wav
+RECORD:expect visual approach:off.wav
+RECORD:expect VOR approach:off.wav
+RECORD:F:off.wav
+RECORD:feet:off.wav
+RECORD:Few:off.wav
+RECORD:fog:off.wav
+RECORD:Fog obscured:off.wav
+RECORD:for arrival:off.wav
+RECORD:for departure:off.wav
+RECORD:Freezing:off.wav
+RECORD:Freezing drizzle:off.wav
+RECORD:Freezing fog:off.wav
+RECORD:Freezing precipitation:off.wav
+RECORD:Freezing rain:off.wav
+RECORD:Friction coefficient:off.wav
+RECORD:frozen ruts or ridges:off.wav
+RECORD:Funnel cloud:off.wav
+RECORD:G:off.wav
+RECORD:Good:off.wav
+RECORD:Graz:off.wav
+RECORD:Gust:off.wav
+RECORD:gusting to:off.wav
+RECORD:H:off.wav
+RECORD:Haze:off.wav
+RECORD:Heavy:off.wav
+RECORD:hpa:off.wav
+RECORD:hundred:off.wav
+RECORD:I:off.wav
+RECORD:ice:off.wav
+RECORD:Ice crystals:off.wav
+RECORD:Ice pellets:off.wav
+RECORD:ILS:off.wav
+RECORD:In depth:off.wav
+RECORD:in use:off.wav
+RECORD:in vicinity:off.wav
+RECORD:Information:off.wav
+RECORD:J:off.wav
+RECORD:K:off.wav
+RECORD:kilometers:off.wav
+RECORD:Knots:off.wav
+RECORD:KOSICE:off.wav
+RECORD:L:off.wav
+RECORD:landing runway:off.wav
+RECORD:left:off.wav
+RECORD:Less than:off.wav
+RECORD:less than 10 percent:off.wav
+RECORD:Light:off.wav
+RECORD:Low drifting dust:off.wav
+RECORD:Low drifting sand:off.wav
+RECORD:Low drifting snow:off.wav
+RECORD:M:off.wav
+RECORD:Medium:off.wav
+RECORD:Medium to good:off.wav
+RECORD:Medium to poor:off.wav
+RECORD:meters:off.wav
+RECORD:miles:off.wav
+RECORD:minus:off.wav
+RECORD:Mist:off.wav
+RECORD:Mm:off.wav
+RECORD:Moderate:off.wav
+RECORD:More than:off.wav
+RECORD:more than 10 kilometers:off.wav
+RECORD:more than 10 kms:off.wav
+RECORD:More than 50 percent:off.wav
+RECORD:N:off.wav
+RECORD:NDV:off.wav
+RECORD:NE:off.wav
+RECORD:neutral:off.wav
+RECORD:no cloud base available:off.wav
+RECORD:No cloud detected:off.wav
+RECORD:no distinct tendency:off.wav
+RECORD:No significant clouds:off.wav
+RECORD:No significant weather:off.wav
+RECORD:North:off.wav
+RECORD:NOSIG:off.wav
+RECORD:NOT DETERMINED:off.wav
+RECORD:NW:off.wav
+RECORD:O:off.wav
+RECORD:observation:off.wav
+RECORD:off:off.wav
+RECORD:on first contact:off.wav
+RECORD:or:off.wav
+RECORD:or more:off.wav
+RECORD:Overcast:off.wav
+RECORD:P:off.wav
+RECORD:Partial fog:off.wav
+RECORD:Patches of fog:off.wav
+RECORD:Poor:off.wav
+RECORD:POPRAD-TATRY:off.wav
+RECORD:previous surface condition:off.wav
+RECORD:Q:off.wav
+RECORD:QFE:off.wav
+RECORD:QNH:off.wav
+RECORD:R:off.wav
+RECORD:RA:off.wav
+RECORD:Rain:off.wav
+RECORD:RE:off.wav
+RECORD:Recent:off.wav
+RECORD:right:off.wav
+RECORD:rime or frost:off.wav
+RECORD:runway:off.wav
+RECORD:Runway visual range:off.wav
+RECORD:S:off.wav
+RECORD:Sand:off.wav
+RECORD:Sandstorm:off.wav
+RECORD:SC:off.wav
+RECORD:Scattered:off.wav
+RECORD:SCT:off.wav
+RECORD:SE:off.wav
+RECORD:Shallow fog:off.wav
+RECORD:Shower:off.wav
+RECORD:Showers of hail:off.wav
+RECORD:Showers of rain:off.wav
+RECORD:Showers of small hail:off.wav
+RECORD:Showers of snow:off.wav
+RECORD:Sky conditions clear:off.wav
+RECORD:slush:off.wav
+RECORD:Smoke:off.wav
+RECORD:Snow:off.wav
+RECORD:Snow grains:off.wav
+RECORD:South:off.wav
+RECORD:Squalls:off.wav
+RECORD:ST:off.wav
+RECORD:Stefanik:off.wav
+RECORD:surface condition:off.wav
+RECORD:Surface on compacted or rolled snow:off.wav
+RECORD:Surface on dry snow:off.wav
+RECORD:Surface on frozen ruts or ridges:off.wav
+RECORD:Surface on ice:off.wav
+RECORD:Surface on rime or frost:off.wav
+RECORD:Surface on slush:off.wav
+RECORD:Surface on wet snow:off.wav
+RECORD:SW:off.wav
+RECORD:T:off.wav
+RECORD:TCU:off.wav
+RECORD:Temperature:off.wav
+RECORD:Temporary:off.wav
+RECORD:the aerodrome is closed due to contamination of the runways:off.wav
+RECORD:This is:off.wav
+RECORD:thousand:off.wav
+RECORD:Thunderstorm:off.wav
+RECORD:Thunderstorm with hail:off.wav
+RECORD:Thunderstorm with ice pellets:off.wav
+RECORD:Thunderstorm with rain:off.wav
+RECORD:Thunderstorm with small hail:off.wav
+RECORD:Thunderstorm with snow:off.wav
+RECORD:time:off.wav
+RECORD:To:off.wav
+RECORD:To less than:off.wav
+RECORD:To more than:off.wav
+RECORD:transition level:off.wav
+RECORD:U:off.wav
+RECORD:Unavailable:off.wav
+RECORD:Unknown precipitation:off.wav
+RECORD:Unmeasurable:off.wav
+RECORD:Upgrading:off.wav
+RECORD:V:off.wav
+RECORD:Variable:off.wav
+RECORD:Variable between:off.wav
+RECORD:Vertical visibility:off.wav
+RECORD:Vicinity:off.wav
+RECORD:Visibility:off.wav
+RECORD:Volcanic ash:off.wav
+RECORD:W:off.wav
+RECORD:West:off.wav
+RECORD:Wet:off.wav
+RECORD:wet snow:off.wav
+RECORD:Widespread dust:off.wav
+RECORD:Widespread dust:off.wav
+RECORD:Wind:off.wav
+RECORD:Wind calm:off.wav
+RECORD:wind variable:off.wav
+RECORD:Windshear:off.wav
+RECORD:Windshear all runways:off.wav
+RECORD:ws:off.wav
+RECORD:X:off.wav
+RECORD:Y:off.wav
+RECORD:Z:off.wav
