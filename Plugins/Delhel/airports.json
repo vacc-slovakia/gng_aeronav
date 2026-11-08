@@ -6,20 +6,20 @@
 				"cfl": 5000,
 				"rwys": {
 					"04": {
-						"dep": "BERVA1E",
-						"nap": "BERVA2Z"
+						"dep": "BERVA2E",
+						"nap": "BERVA3Z"
 					},
 					"13": {
-						"dep": "BERVA1G",
-						"nap": "BERVA2Y"
+						"dep": "BERVA2G",
+						"nap": "BERVA3Y"
 					},
 					"22": {
-						"dep": "BERVA1J",
-						"nap": "BERVA2B"
+						"dep": "BERVA2J",
+						"nap": "BERVA3B"
 					},
 					"31": {
-						"dep": "BERVA1Q",
-						"nap": "BERVA2A"
+						"dep": "BERVA2Q",
+						"nap": "BERVA3A"
 					}
 				}
 			},
@@ -27,20 +27,20 @@
 				"cfl": 5000,
 				"rwys": {
 					"04": {
-						"dep": "NIT2Z",
-						"nap": "NIT2Z"
+						"dep": "NIT3Z",
+						"nap": "NIT3Z"
 					},
 					"13": {
-						"dep": "NIT2Y",
-						"nap": "NIT2Y"
+						"dep": "NIT3Y",
+						"nap": "NIT3Y"
 					},
 					"22": {
-						"dep": "NIT2B",
-						"nap": "NIT2B"
+						"dep": "NIT3B",
+						"nap": "NIT3B"
 					},
 					"31": {
-						"dep": "NIT2A",
-						"nap": "NIT2A"
+						"dep": "NIT3A",
+						"nap": "NIT3A"
 					}
 				}
 			},	
@@ -48,20 +48,20 @@
 				"cfl": 5000,
 				"rwys": {
 					"04": {
-						"dep": "TABIN2Z",
-						"nap": "TABIN2Z"
+						"dep": "TABIN3Z",
+						"nap": "TABIN3Z"
 					},
 					"13": {
-						"dep": "TABIN2Y",
-						"nap": "TABIN2Y"
+						"dep": "TABIN3Y",
+						"nap": "TABIN3Y"
 					},
 					"22": {
-						"dep": "TABIN2B",
-						"nap": "TABIN2B"
+						"dep": "TABIN3B",
+						"nap": "TABIN3B"
 					},
 					"31": {
-						"dep": "TABIN2A",
-						"nap": "TABIN2A"
+						"dep": "TABIN3A",
+						"nap": "TABIN3A"
 					}
 				}
 			},  
@@ -69,20 +69,20 @@
 				"cfl": 5000,
 				"rwys": {
 					"04": {
-						"dep": "TOVAK1E",
-						"nap": "TOVAK2L"
+						"dep": "TOVAK2E",
+						"nap": "TOVAK3L"
 					},
 					"13": {
-						"dep": "TOVKA1G",
-						"nap": "TOVKA2K"
+						"dep": "TOVKA2G",
+						"nap": "TOVKA3Y"
 					},
 					"22": {
-						"dep": "TOVKA1G",
-						"nap": "TOVKA2B"
+						"dep": "TOVKA2J",
+						"nap": "TOVKA3B"
 					},
 					"31": {
-						"dep": "TOVKA1Q",
-						"nap": "TOVKA2A"
+						"dep": "TOVKA2Q",
+						"nap": "TOVKA3A"
 					}
 				}
 			},
@@ -90,20 +90,20 @@
 				"cfl": 5000,
 				"rwys": {
 					"04": {
-						"dep": "VAMOG2Z",
-						"nap": "VAMOG2Z"
+						"dep": "VAMOG3Z",
+						"nap": "VAMOG3Z"
 					},
 					"13": {
-						"dep": "VAMOG2Y",
-						"nap": "VAMOG2Y"
+						"dep": "VAMOG3Y",
+						"nap": "VAMOG3Y"
 					},
 					"22": {
-						"dep": "VAMOG2B",
-						"nap": "VAMOG2B"
+						"dep": "VAMOG3B",
+						"nap": "VAMOG3B"
 					},
 					"31": {
-						"dep": "VAMOG2A",
-						"nap": "VAMOG2A"
+						"dep": "VAMOG3A",
+						"nap": "VAMOG3A"
 					}
 				}
 			}		
@@ -116,12 +116,12 @@
 				"cfl": 12000,
 				"rwys": {
 					"01": {
-						"dep": "EVULA1C",
-						"nap": "EVULA1C"
+						"dep": "EVULA3C",
+						"nap": "EVULA3C"
 					},
 					"19": {
-						"dep": "EVULA2V",
-						"nap": "EVULA2V"
+						"dep": "EVULA3V",
+						"nap": "EVULA3V"
 					}		  
 				}
 		},
@@ -129,25 +129,25 @@
 			"cfl": 12000,
 			"rwys": {
 				"01": {
-					"dep": "HATIP1C",
-					"nap": "HATIP1B"
+					"dep": "HATIP3C",
+					"nap": "HATIP3C"
 				},
 				"19": {
 					"dep": "HATIP2V",
-					"nap": "HATIP1Z"
+					"nap": "HATIP2V"
 				}		  
 			}
 		},
-		"KEKED": {
+		"KSC": {
 			"cfl": 12000,
 			"rwys": {
 				"01": {
-					"dep": "KEKED2A",
-					"nap": "KEKED2A"
+					"dep": "KSC1A",
+					"nap": "KSC1A"
 				},
 				"19": {
-					"dep": "KEKED2Y",
-					"nap": "KEKED2Y"
+					"dep": "KSC1Z",
+					"nap": "KSC1Z"
 				}
 			}
 		},
@@ -155,12 +155,12 @@
 			"cfl": 12000,
 			"rwys": {
 				"01": {
-					"dep": "LATOF1C",
-					"nap": "LATOF1C"
+					"dep": "LATOF2C",
+					"nap": "LATOF2C"
 				},
 				"19": {
-					"dep": "LATOF1V",
-					"nap": "LATOF1V"
+					"dep": "LATOF2V",
+					"nap": "LATOF2V"
 				}
 			}
 		},
@@ -168,25 +168,12 @@
 			"cfl": 12000,
 			"rwys": {
 				"01": {
-					"dep": "MARKA1C",
-					"nap": "MARKA2B"
+					"dep": "MARKA3C",
+					"nap": "MARKA3C"
 				},
 				"19": {
-					"dep": "MARKA2V",
-					"nap": "MARKA2Y"
-				}
-			}
-		},
-		"TAKOS": {
-			"cfl": 12000,
-			"rwys": {
-				"01": {
-					"dep": "TAKOS1C",
-					"nap": "TAKOS1A"
-				},
-				"19": {
-					"dep": "TAKOS2V",
-					"nap": "TAKOS1Y"
+					"dep": "MARKA3V",
+					"nap": "MARKA3V"
 				}
 			}
 		},
@@ -194,12 +181,12 @@
 			"cfl": 12000,
 			"rwys": {
 				"01": {
-					"dep": "RAZEC1C",
-					"nap": "RAZEC1A"
+					"dep": "RAZEC3C",
+					"nap": "RAZEC3C"
 				},
 				"19": {
-					"dep": "RAZEC2V",
-					"nap": "RAZEC1Y"
+					"dep": "RAZEC3V",
+					"nap": "RAZEC3V"
 				}
 			}
 		},
@@ -207,13 +194,26 @@
 				"cfl": 12000,
 				"rwys": {
 					"01": {
-						"dep": "SUFAX1C",
-						"nap": "SUFAX1C"
+						"dep": "SUFAX2C",
+						"nap": "SUFAX2C"
 					},
 					"19": {
 						"dep": "SUFAX1V",
 						"nap": "SUFAX1V"
 					}
+				}
+			}
+		},
+		"TAKOS": {
+			"cfl": 12000,
+			"rwys": {
+				"01": {
+					"dep": "TAKOS3C",
+					"nap": "TAKOS3C"
+				},
+				"19": {
+					"dep": "TAKOS3V",
+					"nap": "TAKOS3V"
 				}
 			}
 		}
@@ -230,7 +230,7 @@
 					},
 					"27": {
 						"dep": "EPEDA2F",
-						"nap": "EPEDA5B"
+						"nap": "EPEDA1H"
 					}
 				}
 			},
@@ -243,7 +243,7 @@
 					},
 					"27": {
 						"dep": "LOLKA1F",
-						"nap": "LOLKA4B"
+						"nap": "LOLKA1G"
 					}
 				}
 			},
@@ -256,7 +256,7 @@
 					},
 					"27": {
 						"dep": "MARKA1F",
-						"nap": "MARKA5C"
+						"nap": "MARKA1H"
 					}
 				}
 			},
@@ -265,11 +265,11 @@
 				"rwys": {
 					"09": {
 						"dep": "ORLAN1Q",
-						"nap": "ORLAN1X"
+						"nap": "ORLAN2X"
 					},
 					"27": {
 						"dep": "ORLAN2F",
-						"nap": "ORLAN1C"
+						"nap": "ORLAN1H"
 					}
 				}
 			},
@@ -281,8 +281,8 @@
 						"nap": "UDREL2X"
 					},
 					"27": {
-						"dep": "UDREL3C",
-						"nap": "UDREL3C"
+						"dep": "UDREL1H",
+						"nap": "UDREL1H"
 					}
 				}
 			},
@@ -295,7 +295,7 @@
 					},
 					"27": {
 						"dep": "UMARY2F",
-						"nap": "UMARY1C"
+						"nap": "UMARY1H"
 					}
 				}
 			}
@@ -387,6 +387,15 @@
 					}
 				}
 			},
+			"MAVOR": {
+				"cfl": 5000,
+				"rwys": {
+					"01": {
+						"dep": "MAVOR1C",
+						"nap": "MAVOR4D"
+					}
+				}
+			},
 			"NIT": {
 				"cfl": 5000,
 				"rwys": {
@@ -408,17 +417,8 @@
 						"nap": "OKR4D"
 					},
 					"19": {
-						"dep": "OKR2T",
-						"nap": "OKR2T"
-					}
-				}
-			},
-			"MAVOR": {
-				"cfl": 5000,
-				"rwys": {
-					"01": {
-						"dep": "MAVOR1C",
-						"nap": "MAVOR4D"
+						"dep": "OKR1T",
+						"nap": "OKR1T"
 					}
 				}
 			}
