@@ -392,7 +392,7 @@
 				"rwys": {
 					"01": {
 						"dep": "MAVOR1C",
-						"nap": "MAVOR4D"
+						"nap": "MAVOR3D"
 					}
 				}
 			},
@@ -400,12 +400,12 @@
 				"cfl": 5000,
 				"rwys": {
 					"01": {
-						"dep": "NIT4D",
-						"nap": "NIT4D"
+						"dep": "NIT5D",
+						"nap": "NIT5D"
 					},
 					"19": {
-						"dep": "NIT2T",
-						"nap": "NIT1W"
+						"dep": "NIT1W",
+						"nap": "NIT3T"
 					}
 				}
 			},
